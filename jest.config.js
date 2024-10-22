@@ -17,6 +17,7 @@ module.exports = {
     '!src/app/**', // Ignora a pasta app
     '!src/lib/registry.tsx', // Ignora o arquivo registry.tsx
     '!src/types/**',
+    '!src/**/stories.tsx',
     '!src/styles/**'
   ],
   modulePaths: ['<rootDir>/src/'], // Permite importar módulos a partir de 'src' sem precisar de caminhos relativos
