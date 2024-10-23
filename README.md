@@ -19,6 +19,12 @@ This project uses lot of stuff as:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
+## Usage template
+
+```bash
+npx create-next-app -e https://github.com/Jezebel1990/boilerplate-apps-router
+```
+
 ## Getting Started
 
 First, run the development server:
